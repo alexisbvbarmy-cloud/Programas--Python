@@ -10,4 +10,4 @@ celsius= float(input("Ingresa la temperatura en Celsius: "))
 fahrenheit= (celsius*9/5)+32
 
 #Salida
-print(f"La temperatura en Fahrenheit es {fahrenheit:.2f}°F")
+print(f"La temperatura en Celsius de {celsius:.2f} equivale a {fahrenheit:.2f}°F")

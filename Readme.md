@@ -7,6 +7,8 @@
 - p004-paga-trabajador.py
 - p005-calculadora-imc.py
 - p006-conversor-temp.py
+- p007-entrada-multiple.py
+- p007-entrada-con-espacios.py
 
 ## Actividad 2
 - Programa 4
