@@ -1,6 +1,9 @@
 # p0014-funciones-trigonometricas.py
 # Demostrar el uso de funciones trigonométricas básicas
 
+print("-"*40)
+print("Operadores de Asignación en Python")
+print("-"*40)
 import math as mt
 
 # Definir un ángulo en grados y convertirlo en radianes 
@@ -25,3 +28,4 @@ f"Los radianes {radianes:.4f} equivañen a {grados:.1f}°\n")
 
 # Mostrar la salida formateada
 print(salida)
+print("-"*40)
