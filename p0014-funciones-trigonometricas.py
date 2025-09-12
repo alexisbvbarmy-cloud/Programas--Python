@@ -2,7 +2,7 @@
 # Demostrar el uso de funciones trigonométricas básicas
 
 print("-"*40)
-print("Operadores de Asignación en Python")
+print("Funciones trigonométricas")
 print("-"*40)
 import math as mt
 
