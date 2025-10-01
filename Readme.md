@@ -55,7 +55,7 @@
 - p042-precio-entrada-cine.py
 - p043-calculadora-anio-bisiesto.py 
 
-## ACtividad 6: 
+## Actividad 6: ejecución repetitiva 
 - p044-conteo-ascendente.py
 - p045-conteo-ascendente-v2.py
 - p046-conteo-descendente.py
@@ -64,3 +64,11 @@
 - p049-sumar-consecutivos.py
 - p050-conteo-numeros.py
 - p051-adivina-numero.py
+
+## Actividad 7: Ejecución repetitiva Parte 2
+- p052-tabla-conversion.py
+- p053-conjetura-collatz.py
+- p054-tabla-multiplicar-while-v1.py
+- p055-tabla-multiplicar-while-v2.py
+- p056-contador-vocales.py
+- p057-interes-simple.py
