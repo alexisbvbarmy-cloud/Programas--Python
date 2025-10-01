@@ -18,7 +18,8 @@ while True:
         print(f"\nTabla de {t}\n")
         while (c<=m):
             print(f"{t} X {c} = {t*c}")
-        c+=1
+            c+=1
+        t+=1
 
     if input("\nDeseas continuar? [S/N]").upper()=='N': 
         break
