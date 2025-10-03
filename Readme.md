@@ -72,3 +72,15 @@
 - p055-tabla-multiplicar-while-v2.py
 - p056-contador-vocales.py
 - p057-interes-simple.py
+
+## Tarea 3: Ejecución repetitva - while
+- p058-impares-ascendente.py
+- p059-pares-descendente.py
+- p060-promedio-suma.py
+- p061-suma-200.py
+- p062-conversion-temperaturas.py
+- p063-numero-mayor.py
+- p064-verificar-palindromo.py
+
+## Actividad 8 Repaso Parcial
+- p065-repaso-parcial-01.py
