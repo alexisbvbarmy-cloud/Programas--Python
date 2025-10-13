@@ -106,3 +106,10 @@
 - p079-factorial-numeros.py
 - p080-combina-colores.py
 - p081-suma-potencias.py
+
+## Tarea 4: Ciclo for 
+- p082-compara-rendimiento-inversion.py
+- p083-plan-ahorro-depistos-mensuales.py
+- p084-cuadro-hueco-caracter.py
+- p085-rombo-caracter.py
+- p086-triangulo-invertido-numeros.py
