@@ -151,3 +151,7 @@
 - p112-registro-estudiantes.py
 - p113-reporte-ventas.py
 - p114-area-figuras.py
+
+## ACtividad 15: Conjuntos
+- p121-municipios.py
+- p122-operaciones-conjuntos.py
