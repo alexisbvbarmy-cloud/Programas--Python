@@ -152,6 +152,10 @@
 - p113-reporte-ventas.py
 - p114-area-figuras.py
 
-## ACtividad 15: Conjuntos
+## Actividad 15: Conjuntos
 - p121-municipios.py
 - p122-operaciones-conjuntos.py
+
+## Tarea 7: Conjuntos 
+- p123-conjunto-personas.py
+- p124-conjunt-numeros.py
