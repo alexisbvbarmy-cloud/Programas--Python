@@ -164,7 +164,7 @@
 - p125-segundo-sxamen-parcial.py
 
 ## Actividad 16: Funciones
- p126-funcion-simple.py
+- p126-funcion-simple.py
 - p127-funcion-parametro.py
 - p128-funcion-parametros.py
 - p129-func-param-nombre.py
@@ -179,3 +179,12 @@
 - p138-suma-digitos.py
 - p139-factorial.py
 - p140-promedio-letra.py
+p145-mayores-promedio.py
+## ACtividad 17: Funciones Parte 2
+- p142-suma-lista.py
+- p143-lista-pares.py
+- p144-mayor-menor.py
+- p145-mayores-promedio.py
+- p146-pares-impares.py
+- p147-aleatorios.py
+- p148-nombres.py
